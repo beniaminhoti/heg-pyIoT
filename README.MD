@@ -1,3 +1,3 @@
 # Projet entreprise connecté
 
-![diagram](./img/Schema.jpg)
+![diagram](./img/diagram.jpg)
