@@ -21,6 +21,8 @@ def mqtt_publisher(broker_ip, topic):
     # print(f"Creation de la nouvelle instance: {instance}")
     client = mqtt.Client(instance)
 
+    # print(f"Configuration du mot de passe: sensors")
+    client.username_pw_set(username="sensors",password="borandebian")
     # print(f"Connexion au broker: {broker_ip}")
     client.connect(broker_ip)
 
