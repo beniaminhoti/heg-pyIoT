@@ -56,6 +56,7 @@ def mqtt_sub(broker_ip, topic):
 
     print(f"Configuration du mot de passe: sensors")
     client.username_pw_set(username="sensors",password="borandebian")
+    
     print(f"Connexion au broker: {broker_ip}")
     client.connect(broker_ip)
 

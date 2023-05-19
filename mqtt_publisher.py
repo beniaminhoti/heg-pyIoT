@@ -34,8 +34,8 @@ def mqtt_publisher(broker_ip, topic):
     print()
     # client.publish(topic, "Hello from Publisher")
 
-    print("Deconnexion du broker")
-    client.disconnect()
+    # print("Deconnexion du broker")
+    # client.disconnect()
 ################################################################
 
 
