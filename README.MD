@@ -19,3 +19,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Sources
 [Documents from EC course](https://cyberlearn.hes-so.ch/course/view.php?id=19772)
+
+[How to create a telegram bot](https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/)
+
+[Method to send messages using telegram bot and POST (HTTP) requests](https://telegram-bot-sdk.readme.io/reference/sendmessage)
